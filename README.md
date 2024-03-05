@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/césar contreras carrillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="césar contreras carrillo" height="30" width="40" /></a>
 <a href="https://kaggle.com/cesar_096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cesar_096" height="30" width="40" /></a>
-<a href="https://fb.com/cesarcontreras" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cesarcontreras" height="30" width="40" /></a>
 <a href="https://instagram.com/cesar_co_cn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cesar_co_cn" height="30" width="40" /></ a>
 </p>
 
